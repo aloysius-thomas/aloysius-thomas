@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aloysius</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Profile%20views&color=0e75b6&style=flat" alt="aloysius-thomas" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +23,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloysius-thomas&" alt="aloysius-thomas" style="width: 100%;" />
   </p>
 </div>
-
+<div>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Profile%20views&color=0e75b6&style=flat" alt="aloysius-thomas" /> </p>
+</div>
