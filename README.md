@@ -4,13 +4,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aloysius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aloysius" height="30" width="40" /></a>
-<a href="https://twitter.com/aloysiusvthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloysiusvthomas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aloysius-thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aloysius-thomas" height="30" width="40" /></a>
-<a href="https://fb.com/aloysiusvthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aloysiusvthomas" height="30" width="40" /></a>
-<a href="https://instagram.com/aloysiusthomasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aloysiusthomasv" height="30" width="40" /></a>
-<a href="https://medium.com/@aloysiusthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aloysiusthomas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@aloysiusthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aloysiusthomas" height="30" width="40" /></a>
+<a href="https://linktr.ee/aloysiusthomas" target="blank"> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 25" height="100%" style="display: block; width: auto;"><title>Linktree Logo</title><desc>Linktree Logo Symbol</desc><path d="M13.5108 5.85343L17.5158 1.73642L19.8404 4.11701L15.6393 8.12199H21.5488V11.4268H15.6113L19.8404 15.5345L17.5158 17.8684L11.7744 12.099L6.03299 17.8684L3.70842 15.5438L7.93745 11.4361H2V8.12199H7.90944L3.70842 4.11701L6.03299 1.73642L10.038 5.85343V0H13.5108V5.85343ZM10.038 16.16H13.5108V24.0019H10.038V16.16Z" fill="#000000"></path></svg>
+</a>
+  
 </p>
 
 <div style="width: 100%;">
