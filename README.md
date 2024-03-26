@@ -11,7 +11,7 @@
 </p>
 
 <div style="width: 100%;">
-  <p style="text-align: center; width: 100%; margin: 0 auto;">
+  <p align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aloysius-thomas&show_icons=true&locale=en&layout=compact" alt="aloysius-thomas" />
   </p>
 </div>
