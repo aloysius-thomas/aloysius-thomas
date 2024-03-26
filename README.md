@@ -21,5 +21,5 @@
  </p>
 </div>
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Visitors&color=000000&style=flat" alt="aloysius-thomas" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Visitors&color=000000&style=flat" alt="aloysius-thomas" /> </p>
 </div>
