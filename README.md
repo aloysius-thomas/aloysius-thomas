@@ -17,8 +17,7 @@
 </div>
 <div style="width: 100%;">
 <p style="text-align: center; width: 50%; margin: 0 auto;">
-<img src="https://streak-stats.demolab.com?user=aloysius-thomas&theme=transparent&border_radius=0&card_width=1000"  style="width: 100%;" alt="GitHub Streak" />
- </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloysius-thomas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="aloysius-thomas" /> </p>
 </div>
 <div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Visitors&color=000000&style=flat" alt="aloysius-thomas" /> </p>
