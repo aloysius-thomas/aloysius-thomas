@@ -17,7 +17,7 @@
 </div>
 <div style="width: 100%;">
 <p style="text-align: center; width: 50%; margin: 0 auto;">
-<img src="https://streak-stats.demolab.com?user=aloysius-thomas&theme=transparent&border_radius=0&card_width=750"  style="width: 100%;" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=aloysius-thomas&theme=transparent&border_radius=0&card_width=1000"  style="width: 100%;" alt="GitHub Streak" />
  </p>
 </div>
 <div>
