@@ -2,15 +2,16 @@
 <h3 align="center">A back-end developer</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+
+
+<div style="width: 100%;">
+    <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/aloysiusthomas" target="blank"> 
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png"  height=30/>
 </a>
   
 </p>
-
-<div style="width: 100%;">
   <p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloysius-thomas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="aloysius-thomas" />  </p>
 </div>
