@@ -11,7 +11,7 @@
 </p>
 
 <div style="width: 100%;">
-  <p style="text-align: center; width: 50%; margin: 0 auto;">
+  <p style="text-align: center; width: 100%; margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aloysius-thomas&show_icons=true&locale=en&layout=compact" alt="aloysius-thomas" />
   </p>
 </div>
@@ -21,5 +21,5 @@
  </p>
 </div>
 <div>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Profile%20views&color=0e75b6&style=flat" alt="aloysius-thomas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloysius-thomas&label=Visitors&color=000000&style=flat" alt="aloysius-thomas" /> </p>
 </div>
