@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/aloysiusthomas" target="blank"> 
-<img src="https://logosarchive.com/wp-content/uploads/2021/12/Linktree-logo.png"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png"/> Linktree
 </a>
   
 </p>
