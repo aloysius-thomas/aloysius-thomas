@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aloysius</h1>
-<h3 align="center">A software developer</h3>
-
-
-
 
 <div style="width: 100%;">
     <h3 align="left">Connect with me:</h3>
